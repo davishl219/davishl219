@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on my username README.
+🌱 I’m currently learning GitHub.
+👯 I’m looking to collaborate on future Tech Elevator projects.
+🤔 I’m looking for help with navigating the various programs and command prompts.
+💬 Ask me about my dog.
+📫 How to reach me: text my cell phone.
+😄 Pronouns: she/her
+⚡ Fun fact: I have been skydiving.
